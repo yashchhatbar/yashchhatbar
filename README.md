@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m currently working on: AI systems like voice assistants, multi-agent workflows, and computer vision projects<br>I’m looking to collaborate on: AI/ML, automation, and real-world problem-solving projects<br>I’m looking for help with: scaling AI systems and advanced deep learning techniques<br>I’m currently learning: advanced machine learning, deep learning, and AI system design<br>Ask me about: Python, ML projects, automation, and building AI applications<br>Fun fact: I enjoy turning ideas into real AI products that solve practical problems
 
 
